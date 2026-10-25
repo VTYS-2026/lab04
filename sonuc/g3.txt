@@ -1,0 +1,43 @@
+                ad                | ucret 
+----------------------------------+-------
+ Boks Temelleri — Orta            |   500
+ Kuvvet Antrenmanı — Başlangıç    |   550
+ Kardiyo Dayanıklılık — Orta      |   500
+ Boks Temelleri — Başlangıç       |   600
+ Hamile Yogası — İleri            |   450
+ Kardiyo Dayanıklılık — Başlangıç |   500
+ Yüzme Teknikleri — Orta          |   550
+ Kardiyo Dayanıklılık — İleri     |   450
+ Esneklik ve Denge — İleri        |   550
+ Kıdemli Fitness — Orta           |   500
+ Kıdemli Fitness — İleri          |   600
+ Esneklik ve Denge — Başlangıç    |   450
+ Kuvvet Antrenmanı — İleri        |   600
+ Core Güçlendirme — İleri         |   450
+ Kickboks — Orta                  |   500
+ Pilates Matwork — Başlangıç      |   450
+(16 rows)
+
+              ad               
+-------------------------------
+ Sabah Yogası — Orta
+ Kuvvet Antrenmanı — Orta
+ Boks Temelleri — Başlangıç
+ Fonksiyonel Antrenman — İleri
+ Crossfit WOD — Orta
+ Crossfit WOD — İleri
+ Kıdemli Fitness — Başlangıç
+ İleri Pilates — İleri
+ Kickboks — Başlangıç
+ Kıdemli Fitness — Orta
+ Esneklik ve Denge — Başlangıç
+ İleri Pilates — Başlangıç
+ Pilates Matwork — Başlangıç
+(13 rows)
+
+     ad      | kayit_sayisi 
+-------------+--------------
+ Hasan Kılıç |            6
+ Serkan Koç  |            6
+(2 rows)
+

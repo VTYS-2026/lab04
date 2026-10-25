@@ -1,0 +1,61 @@
+   salon_adi    |             ders_adi             | ucret | ucret_sirasi 
+----------------+----------------------------------+-------+--------------
+ Stüdyo A       | Boks Temelleri — Başlangıç       |   600 |            1
+ Stüdyo A       | Kıdemli Fitness — Orta           |   500 |            2
+ Stüdyo A       | İleri Pilates — Başlangıç        |   300 |            3
+ Stüdyo B       | Kuvvet Antrenmanı — İleri        |   600 |            1
+ Stüdyo B       | Boks Temelleri — Orta            |   500 |            2
+ Stüdyo B       | Sabah Yogası — Orta              |   400 |            3
+ Havuz          | Kardiyo Dayanıklılık — Orta      |   500 |            1
+ Havuz          | Fonksiyonel Antrenman — Orta     |   350 |            2
+ Havuz          | Kuvvet Antrenmanı — Orta         |   350 |            2
+ Havuz          | Yüzme Teknikleri — Başlangıç     |   350 |            2
+ Havuz          | Yüzme Teknikleri — İleri         |   300 |            5
+ Dövüş Salonu   | Yüzme Teknikleri — Orta          |   550 |            1
+ Dövüş Salonu   | Kardiyo Dayanıklılık — Başlangıç |   500 |            2
+ Dövüş Salonu   | Pilates Matwork — Başlangıç      |   450 |            3
+ Dövüş Salonu   | Core Güçlendirme — Başlangıç     |   300 |            4
+ Dövüş Salonu   | Fonksiyonel Antrenman — İleri    |   300 |            4
+ Açık Alan      | Esneklik ve Denge — Başlangıç    |   450 |            1
+ Açık Alan      | Core Güçlendirme — İleri         |   450 |            1
+ Açık Alan      | Kardiyo Dayanıklılık — İleri     |   450 |            1
+ Açık Alan      | Kickboks — Başlangıç             |   400 |            4
+ Açık Alan      | Kıdemli Fitness — Başlangıç      |   400 |            4
+ Açık Alan      | Crossfit WOD — İleri             |   300 |            6
+ Spinning Odası | Kıdemli Fitness — İleri          |   600 |            1
+ Spinning Odası | Kuvvet Antrenmanı — Başlangıç    |   550 |            2
+ Spinning Odası | Esneklik ve Denge — İleri        |   550 |            2
+ Spinning Odası | Kickboks — Orta                  |   500 |            4
+ Spinning Odası | Hamile Yogası — İleri            |   450 |            5
+ Spinning Odası | İleri Pilates — İleri            |   400 |            6
+ Spinning Odası | Crossfit WOD — Orta              |   300 |            7
+(29 rows)
+
+   salon_adi    |           ders_adi            | ucret 
+----------------+-------------------------------+-------
+ Stüdyo A       | Boks Temelleri — Başlangıç    |   600
+ Stüdyo B       | Kuvvet Antrenmanı — İleri     |   600
+ Havuz          | Kardiyo Dayanıklılık — Orta   |   500
+ Dövüş Salonu   | Yüzme Teknikleri — Orta       |   550
+ Açık Alan      | Esneklik ve Denge — Başlangıç |   450
+ Açık Alan      | Core Güçlendirme — İleri      |   450
+ Açık Alan      | Kardiyo Dayanıklılık — İleri  |   450
+ Spinning Odası | Kıdemli Fitness — İleri       |   600
+(8 rows)
+
+ ay | kayit_sayisi | fark 
+----+--------------+------
+  1 |           21 |     
+  2 |           26 |    5
+  3 |           24 |   -2
+  4 |           26 |    2
+  5 |           23 |   -3
+  6 |           34 |   11
+  7 |           22 |  -12
+  8 |           29 |    7
+  9 |           25 |   -4
+ 10 |           32 |    7
+ 11 |           26 |   -6
+ 12 |           33 |    7
+(12 rows)
+

@@ -1,0 +1,8 @@
+-- 1. Yontem: LEFT JOIN ... IS NULL
+EXPLAIN SELECT u.ad FROM uyeler u LEFT JOIN kayitlar k ON u.uye_id = k.uye_id WHERE k.kayit_id IS NULL;
+
+-- 2. Yontem: NOT EXISTS
+EXPLAIN SELECT u.ad FROM uyeler u WHERE NOT EXISTS (SELECT 1 FROM kayitlar k WHERE k.uye_id = u.uye_id);
+
+Gozlem:
+PostgreSQL optimizasyonu iki sorguda da Hash Anti Join yontemini isletmektedir. Ancak NOT EXISTS kalibi semantik olarak daha guvenlidir ve ilk eslesmede aramayi kestigi icin NULL deger risklerinden etkilenmez.

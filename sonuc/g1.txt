@@ -1,0 +1,63 @@
+      ad       | dogum_yili 
+---------------+------------
+ Nazlı Erdoğan |       2006
+ Leyla Arslan  |       2004
+ Sevgi Polat   |       2007
+ Emine Polat   |       2008
+ Ali Özdemir   |       2003
+ Hülya Koç     |       2002
+ Zeynep Yılmaz |       2000
+ Leyla Şahin   |       2004
+ Emine Arslan  |       2006
+ Gül Aydın     |       2006
+ Mustafa Bulut |       2000
+ Ayşe Çetin    |       2008
+ Ayşe Taş      |       2001
+ Zeynep Kurt   |       2005
+ Nazlı Koç     |       2001
+ Melek Koç     |       2006
+ Elif Çelik    |       2003
+ Mustafa Polat |       2005
+ Kemal Yılmaz  |       2001
+ İpek Bulut    |       2002
+ Gül Demir     |       2004
+ Fatma Demir   |       2007
+ Emine Yıldız  |       2008
+ Ali Yıldız    |       2008
+ Mustafa Demir |       2008
+ Hasan Taş     |       2008
+ İpek Aslan    |       2006
+ Ece Aydın     |       2006
+ Nazlı Yılmaz  |       2007
+ Emine Erdoğan |       2007
+ Ali Doğan     |       2004
+ Deniz Aydın   |       2001
+ İpek Güneş    |       2005
+ Serkan Koç    |       2005
+ Melek Kurt    |       2004
+ Nazlı Kaya    |       2008
+(36 rows)
+
+ en_dusuk | en_yuksek | toplam 
+----------+-----------+--------
+      300 |       600 |  12650
+(1 row)
+
+  brans   | egitmen_sayisi 
+----------+----------------
+ Yüzme    |              3
+ Crossfit |              2
+ Pilates  |              1
+ Fitness  |              1
+ Yoga     |              1
+ Boks     |              1
+(6 rows)
+
+       ad       | ders_sayisi 
+----------------+-------------
+ Dövüş Salonu   |           5
+ Havuz          |           5
+ Açık Alan      |           6
+ Spinning Odası |           7
+(4 rows)
+
